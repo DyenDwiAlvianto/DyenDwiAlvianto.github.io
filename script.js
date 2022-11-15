@@ -1,9 +1,9 @@
 var nama_barang = [
-  "Gula"
+  "Casing"
 ];
 
 var harga_satuan = [
-  "10000"
+  "50000"
 ];
 
 var jumlah = [
@@ -11,8 +11,9 @@ var jumlah = [
 ];
 
 var total = [
-  '20000'
+  '100000'
 ];
+
 
 function tampil() {
   var tabel = document.getElementById("tabel");
